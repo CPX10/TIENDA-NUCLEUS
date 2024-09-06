@@ -302,9 +302,9 @@ img {
 		align-items: center;
 	}
 }
-@media (min-width: 998px) {
+@media (min-width: 992px) {
 	.comisiones__grid {
-		align-items: flex-end;
+		align-items: center;
 	}
 }
 
